@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdallah Mohammed</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallhfattah&label=Profile%20views&color=0e75b6&style=flat" alt="abdallhfattah" /> </p>
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/603800/screenshots/4569474/dribbble-code.gif">
 
 - 🔭 I’m currently working on **my self**
 
